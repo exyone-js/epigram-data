@@ -3,6 +3,22 @@
   "updated_at": "2026-09-26T17:30:00Z",
   "epigrams": [
     {
+      "id": "e1f5h2",
+      "content": "我是谁不重要，重要的是——你正在用的 Epigram API，是我开发的。",
+      "source": "Epigram 开发者",
+      "author": "exyone",
+      "category": "科技",
+      "tags": ["开源", "编程", "自嘲"]
+    },
+    {
+      "id": "t4f5h2",
+      "content": "或许在另一个平行宇宙里，lyc 和 lcz 不仅没有绝交，还成了恋人，甚至最后结婚了。",
+      "source": "Epigram 开发者",
+      "author": "exyone",
+      "category": "哲学",
+      "tags": ["人生", "自嘲"]
+    },
+    {
       "id": "e1f3a2",
       "content": "人生如逆旅，我亦是行人。",
       "source": "临江仙·送钱穆父",
