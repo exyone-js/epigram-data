@@ -1,0 +1,8 @@
+[
+  "https://raw.githubusercontent.com/exyone-js/epigram-data/main/data/internet.json",
+  "https://raw.githubusercontent.com/exyone-js/epigram-data/main/data/literature.json",
+  "https://raw.githubusercontent.com/exyone-js/epigram-data/main/data/technology.json",
+  "https://raw.githubusercontent.com/exyone-js/epigram-data/main/data/philosophy.json",
+  "https://raw.githubusercontent.com/exyone-js/epigram-data/main/data/film.json",
+  "https://raw.githubusercontent.com/exyone-js/epigram-data/main/data/wisdom.json"
+]

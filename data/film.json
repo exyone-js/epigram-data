@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-26T17:30:00Z",
+  "quotes": [
+    {
+      "id": "d2e3f4",
+      "content": "May the Force be with you.",
+      "source": "星球大战系列",
+      "author": "乔治·卢卡斯",
+      "category": "影视",
+      "tags": ["科幻", "经典", "祝福"]
+    },
+    {
+      "id": "e3f4a5",
+      "content": "I'll be back.",
+      "source": "终结者",
+      "author": "詹姆斯·卡梅隆",
+      "category": "影视",
+      "tags": ["经典台词", "科幻", "决心"]
+    },
+    {
+      "id": "f4a5b6",
+      "content": "To infinity and beyond!",
+      "source": "玩具总动员",
+      "author": "皮克斯",
+      "category": "影视",
+      "tags": ["勇气", "冒险", "动画"]
+    },
+    {
+      "id": "a5b6c7",
+      "content": "Why so serious?",
+      "source": "黑暗骑士",
+      "author": "克里斯托弗·诺兰",
+      "category": "影视",
+      "tags": ["小丑", "经典", "反派"]
+    },
+    {
+      "id": "b6c7d8",
+      "content": "I am iron man.",
+      "source": "钢铁侠",
+      "author": "漫威电影宇宙",
+      "category": "影视",
+      "tags": ["英雄", "身份", "经典"]
+    }
+  ]
+}
